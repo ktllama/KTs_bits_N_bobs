@@ -1,0 +1,206 @@
+.navigation {
+  float: left;
+  position: fixed;
+  width: 100vw;
+  border: 1px white solid;
+  background-color: #dc3545;
+}
+
+a.nav {
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+}
+
+a.navigation:hover {
+  text-decoration: none;
+  color: white;
+  opacity: .5;
+}
+
+.intro {
+  background-color: #dc3545;
+  height: 100vh;
+}
+
+.name {
+  font-size: 5em;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 3%;
+  margin-top: 10%;
+  font-size: 3em;
+}
+
+.about {
+  background-color: #fd7e14;
+  height: 100vh;
+}
+
+.text {
+  width: 80%;
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+.contact {
+  background-color: #f3a96c;
+  height: 100vh;
+}
+
+a.cont {
+  text-decoration: none;
+  font-size: 2em;
+  color: white;
+}
+
+a.cont:hover {
+  opacity: 80%;
+}
+
+.contacttext {
+  font-size: 1.1em;
+  font-variant: small-caps;
+  border: white 1px solid;
+  padding: 6%;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 30px;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+#resume {
+  border-radius: 30px;
+  background-color: white;
+  padding: 3%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+a.res {
+  font-size: 3em;
+  color: #f3a96c;
+  text-decoration: none;
+}
+
+a.res:hover {
+  opacity: 70%;
+}
+
+.skills {
+  background-color: #ffc107;
+  height: 100vh;
+  padding: 2em;
+}
+
+.list {
+  border: 1px solid white;
+  margin: 2%;
+  width: 45%;
+  padding: 0% 3% 5% 3%;
+  content: inherit;
+  border-radius: 20px;
+}
+
+.projects {
+  background-color: #f3d478;
+  height: 100vh;
+  padding: 2em;
+}
+
+.pheadone {
+  font-size: 2em;
+  font-variant: small-caps;
+  margin-bottom: 5%;
+  margin-top: 1%;
+}
+
+.phead {
+  font-size: 2em;
+  padding: 6%;
+  font-variant: small-caps;
+  margin: 0;
+}
+
+a.ptext {
+  text-decoration: none;
+  color: white;
+}
+
+a.ptext:hover {
+  opacity: 80%;
+}
+
+.ptextone:hover {
+  opacity: 80%;
+}
+
+.ptexttwo:hover {
+  opacity: 80%;
+}
+
+.ptextone {
+  display: inline-block;
+  border: white 1px solid;
+  border-radius: 20px;
+  padding: 5%;
+  font-size: 1.5em;
+  width: 30%;
+  height: 142px;
+}
+
+.ptexttwo {
+  display: inline-block;
+  border: white 1px solid;
+  border-radius: 20px;
+  padding: 5%;
+  font-size: 1.5em;
+  width: 40%;
+  height: 143px;
+}
+
+div {
+  text-align: center;
+  color: white;
+  font-weight: 400;
+}
+
+.container-fixed {
+  display: inline;
+  width: 100vw;
+  height: 100px;
+  color: #fff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+}
+
+h2 {
+  text-align: center;
+  font-size: 5em;
+  text-transform: capitalize;
+  margin-top: 6%;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.heading {
+  text-align: center;
+  font-size: 5em;
+  text-transform: capitalize;
+  margin-top: 8%;
+}
+/*# sourceMappingURL=styles.css.map */
