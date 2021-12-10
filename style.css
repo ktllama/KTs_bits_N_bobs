@@ -117,6 +117,9 @@ body {
   margin: 1rem;
 }
 
+.pic{
+  width:20rem;
+}
 .icon{
   width:10rem;
 }
@@ -189,6 +192,7 @@ footer a {
     padding: 1.3rem;
   }
 
+
   .navbar {
     float: right;
   }
@@ -251,13 +255,13 @@ figure {
 .weewoo{
   display:inline;
 }
+
 .projects{
   width:6rem;
   text-align: center;
-  display
 }
 
-#fixed {
+#fixed{
   background-image: url('img/sunnys.jpeg');
   opacity: 60%;
   position: fixed;
