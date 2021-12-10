@@ -95,6 +95,10 @@ body {
   max-width:18rem;
 }
 
+.hov:hover{
+  opacity: .6;
+}
+
 /*favicon colors*/
 .fa-code {
   color: #e54d26;
