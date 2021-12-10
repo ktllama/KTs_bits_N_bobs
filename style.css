@@ -125,10 +125,7 @@ body {
 }
 
 /*hidden gif section*/
-.fun {
-  width: 100%;
-  margin-bottom: 2rem;
-}
+
 
 .gif {
   max-width: 100%;
@@ -263,7 +260,7 @@ figure {
 
 #fixed{
   background-image: url('sunnys.jpeg');
-  opacity: 60%;
+  opacity: 70%;
   position: fixed;
   display: block;
   top: 0;
