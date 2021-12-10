@@ -262,7 +262,7 @@ figure {
 }
 
 #fixed{
-  background-image: url('img/sunnys.jpeg');
+  background-image: url('sunnys.jpeg');
   opacity: 60%;
   position: fixed;
   display: block;
