@@ -1,0 +1,56 @@
+.projects{
+    background-color: #f3d478;
+    height:100vh;
+    padding:2em;
+}
+
+.pheadone{
+    font-size:2em;
+    font-variant: small-caps;
+    margin-bottom:5%;
+    margin-top:1%;
+}
+.phead{
+    font-size: 2em;
+    padding:6%;
+    font-variant: small-caps;
+    margin:0;
+}
+
+a.ptext{
+    text-decoration: none;
+    color:white;
+}
+
+a.ptext:hover{
+    opacity:80%;
+}
+
+.ptextone:hover{
+    opacity: 80%;
+}
+
+.ptexttwo:hover{
+    opacity: 80%;
+}
+
+
+.ptextone{
+    display:inline-block;
+    border:white 1px solid;
+    border-radius: 20px;
+    padding:5%;
+    font-size:1.5em;
+    width:30%;
+    height:142px;
+}
+
+.ptexttwo{
+    display:inline-block;
+    border:white 1px solid;
+    border-radius: 20px;
+    padding:5%;
+    font-size:1.5em;
+    width:40%;
+    height:143px;
+}

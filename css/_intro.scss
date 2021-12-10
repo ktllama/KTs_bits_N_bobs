@@ -1,0 +1,36 @@
+.navigation{
+  float:left;
+  position:fixed;
+    width:100vw;
+    border:1px white solid;
+    background-color: #dc3545;
+}
+
+a.nav{
+    text-decoration: none;
+    color:white;
+    font-size:2em;
+
+}
+
+a.navigation:hover{
+    text-decoration:none;
+    color:white;
+    opacity: .5;
+}
+
+.intro{
+  background-color: #dc3545;
+  height: 100vh;
+
+
+}
+
+.name{
+  font-size: 5em;
+  color:white;    
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:3%;
+    margin-top: 10%;
+    font-size: 3em;
+}
