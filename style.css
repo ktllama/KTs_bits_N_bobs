@@ -136,17 +136,29 @@ body {
 /*blog*/
 .blogContainer{
   color:white;
-  height: 20rem;
+  height: 15rem;
+}
+
+.blogContainer:hover{
+  opacity: .7;
 }
 
 .blogfont{
   font-family: 'Cabin Sketch', cursive;
 }
 
-a.link{
+a{
   text-decoration: none;
-  
+  color: inherit;
 }
+
+a:hover{
+  opacity: .5;
+  text-decoration: none;
+  color: inherit;
+
+}
+
 /*social media contact section*/
 .social a {
   font-size: 2rem;
