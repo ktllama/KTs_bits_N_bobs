@@ -141,7 +141,11 @@ body {
 
 .blogfont{
   font-family: 'Cabin Sketch', cursive;
+}
 
+a.link{
+  text-decoration: none;
+  
 }
 /*social media contact section*/
 .social a {
@@ -206,6 +210,13 @@ footer a {
     float: right;
   }
 }
+
+/*blog*/
+
+a:hover{
+  opacity: .7;
+}
+
 @media (max-width: 576px) {
   .navbar {
     float: right;
