@@ -161,18 +161,18 @@ a:hover{
 
 /*social media contact section*/
 .social a {
-  font-size: 2rem;
+  font-size: 3rem;
   padding: 3rem;
-  color: #563d7c;
+  color: brown;
 }
 
 footer {
-  background-color: #563d7c;
-  color: #d5d5d5;
+  background-color: #d29c59;
+  color: rgb(48, 45, 45);
   padding-top: 2rem;
 }
 hr.light {
-  border-top: 1px solid #d5d5d5;
+  border-top: 1px solid #cdd4b2;
   width: 75%;
   margin-top: 0.8rem;
   margin-bottom: 0.1rem;
